@@ -12,6 +12,6 @@ Prathmesh Sargar<br>Aspiring MERN Stack Developer<br>📧 sargarprathmesh007@gma
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prathmesh-Sargar&icon=9&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
